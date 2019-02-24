@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\Debug\DA_1B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA_1B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA_1B.map</FILE>
+  <FILE>DA_1B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop1><FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\main.asm</FILE><LINE>26</LINE></loop1>
+  <end><FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\main.asm</FILE><LINE>32</LINE></end>
+  <loop2><FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\main.asm</FILE><LINE>50</LINE></loop2>
+  <loop3><FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\main.asm</FILE><LINE>53</LINE></loop3>
+  <to_400><FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\main.asm</FILE><LINE>73</LINE></to_400>
+  <to_600><FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\main.asm</FILE><LINE>65</LINE></to_600>
+  <done><FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\main.asm</FILE><LINE>81</LINE></done>
+  <loop4><FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\main.asm</FILE><LINE>101</LINE></loop4>
+  <finish><FILE>C:\Users\Baker\Documents\Atmel Studio\7.0\DA_1B\DA_1B\main.asm</FILE><LINE>114</LINE></finish>
+ </LABELS>
+</ASSEMBLER_INFO>
