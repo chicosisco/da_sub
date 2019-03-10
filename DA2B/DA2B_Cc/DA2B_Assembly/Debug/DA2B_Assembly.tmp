@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\Debug\DA2B_Assembly.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2B_Assembly.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2B_Assembly.map</FILE>
+  <FILE>DA2B_Assembly.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>13</LINE></MAIN>
+  <EX0_ISR><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>36</LINE></EX0_ISR>
+  <HERE><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>34</LINE></HERE>
+  <delay_1s><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>56</LINE></delay_1s>
+  <delay_100ms><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>69</LINE></delay_100ms>
+  <delay_50ms><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>82</LINE></delay_50ms>
+  <delay_5s><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>48</LINE></delay_5s>
+  <delay_10ms><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>90</LINE></delay_10ms>
+  <delay_1ms><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>103</LINE></delay_1ms>
+  <delay_1ms_16><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>110</LINE></delay_1ms_16>
+  <delay_1a><FILE>c:\Users\oit\Documents\Atmel Studio\7.0\DA2B_Cc\DA2B_Assembly\main.asm</FILE><LINE>113</LINE></delay_1a>
+ </LABELS>
+</ASSEMBLER_INFO>
